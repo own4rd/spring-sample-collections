@@ -1,0 +1,10 @@
+br/com/lowlevel/springsoap/gen/GetCountryRequest.class
+br/com/lowlevel/springsoap/gen/Country.class
+br/com/lowlevel/springsoap/gen/package-info.class
+br/com/lowlevel/springsoap/gen/Currency.class
+br/com/lowlevel/soap_ws_sample/configs/WebServiceConfig.class
+br/com/lowlevel/springsoap/gen/GetCountryResponse.class
+br/com/lowlevel/soap_ws_sample/SoapWsSampleApplication.class
+br/com/lowlevel/springsoap/gen/ObjectFactory.class
+br/com/lowlevel/soap_ws_sample/repositories/CountryRepository.class
+br/com/lowlevel/soap_ws_sample/endpoints/CountryEndpoint.class

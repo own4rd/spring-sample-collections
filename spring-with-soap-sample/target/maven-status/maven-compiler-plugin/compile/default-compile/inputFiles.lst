@@ -1,0 +1,10 @@
+/home/wagner/workspace/java/spring-with-soap-sample/src/main/java/br/com/lowlevel/soap_ws_sample/SoapWsSampleApplication.java
+/home/wagner/workspace/java/spring-with-soap-sample/src/main/java/br/com/lowlevel/soap_ws_sample/configs/WebServiceConfig.java
+/home/wagner/workspace/java/spring-with-soap-sample/src/main/java/br/com/lowlevel/soap_ws_sample/endpoints/CountryEndpoint.java
+/home/wagner/workspace/java/spring-with-soap-sample/src/main/java/br/com/lowlevel/soap_ws_sample/repositories/CountryRepository.java
+/home/wagner/workspace/java/spring-with-soap-sample/src/main/java/br/com/lowlevel/springsoap/gen/Country.java
+/home/wagner/workspace/java/spring-with-soap-sample/src/main/java/br/com/lowlevel/springsoap/gen/Currency.java
+/home/wagner/workspace/java/spring-with-soap-sample/src/main/java/br/com/lowlevel/springsoap/gen/GetCountryRequest.java
+/home/wagner/workspace/java/spring-with-soap-sample/src/main/java/br/com/lowlevel/springsoap/gen/GetCountryResponse.java
+/home/wagner/workspace/java/spring-with-soap-sample/src/main/java/br/com/lowlevel/springsoap/gen/ObjectFactory.java
+/home/wagner/workspace/java/spring-with-soap-sample/src/main/java/br/com/lowlevel/springsoap/gen/package-info.java
