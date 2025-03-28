@@ -18,3 +18,7 @@ Este repositório contém dois exemplos de projetos que demonstram diferentes te
 4. **ELK com Spring**
    - Demonstra como utilizar Elasticsearch, Logstash e Kibana
    - Integra Spring com Logstash para gerenciamento de logs
+
+5. **ActiveMQ com Spring**
+   - Mensageria com activeMQ
+   - Producer&Consumer com activemq
