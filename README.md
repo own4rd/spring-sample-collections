@@ -22,3 +22,6 @@ Este repositório contém dois exemplos de projetos que demonstram diferentes te
 5. **ActiveMQ com Spring**
    - Mensageria com activeMQ
    - Producer&Consumer com activemq
+
+6. **Aplicação de Hierarquia de perfis com Spring Security**
+   - Admin > Moderator > User
